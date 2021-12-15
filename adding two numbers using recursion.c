@@ -1,5 +1,11 @@
-# include <stdio.h>
+/*3.	Write a program to find sum of the first n numbers using recursion, where the value of n is provided by the user.
+Example
+Input: 5
+Output: 15 	//1+2+3+4+5=15
+*/
+#include <stdio.h>
 #include <stdlib.h>
+
 int add(int,int);  //Function prototype        
 int main()
 {
