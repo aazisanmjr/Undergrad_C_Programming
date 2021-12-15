@@ -12,7 +12,8 @@ Thanks!
 
 ##
 Pending
-1.      Given a sequence of 1, 1, 1, 3, 5, 9, 17, …, starting from item 4, each item is the sum of the first three items before it. Find the last 4 digits of item 20211109.
+#
+1.Given a sequence of 1, 1, 1, 3, 5, 9, 17, …, starting from item 4, each item is the sum of the first three items before it. Find the last 4 digits of item 20211109.
 
 2.There are 5 numbers：0， 1， 2， 3， 4. How many different, non-repeating three-digit numbers can you make up? 
 
